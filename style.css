@@ -1,0 +1,21 @@
+body {
+    font-family: playfair;
+    background-color: rgb(245, 209, 144);
+
+}
+h1{
+    background-color: rgb(128, 186, 234);
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    background-color: rgb(227, 123, 85);
+    padding: 5px;
+}
+footer p{
+    background-color: rgb(128, 186, 234);
+    padding: 5px;
+    color: black;
+}
+   
